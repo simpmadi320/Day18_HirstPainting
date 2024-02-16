@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30ae14b5-9ae7-4d13-999d-b96c4cfa1751" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Day18_HirstPainting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30ae14b5-9ae7-4d13-999d-b96c4cfa1751" name="Changes" comment="Full project - complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +59,67 @@
       <option name="presentableId" value="Default" />
       <updated>1708049535001</updated>
     </task>
+    <task id="LOCAL-00001" summary="Full project - complete">
+      <option name="closed" value="true" />
+      <created>1708055053011</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708055053011</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Full project - complete">
+      <option name="closed" value="true" />
+      <created>1708055065972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708055065972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Full project - complete">
+      <option name="closed" value="true" />
+      <created>1708055092312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708055092312</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Full project - complete">
+      <option name="closed" value="true" />
+      <created>1708055097848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708055097848</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Full project - complete">
+      <option name="closed" value="true" />
+      <created>1708055102790</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708055102790</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Full project - complete">
+      <option name="closed" value="true" />
+      <created>1708055139071</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708055139071</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Full project - complete">
+      <option name="closed" value="true" />
+      <created>1708055201821</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708055201821</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Full project - complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full project - complete" />
   </component>
 </project>
